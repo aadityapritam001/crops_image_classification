@@ -1,5 +1,6 @@
 # crops_image_classification
 Image classifications for various types of agriculture crops 
+uses : Deep Learning, CNN 
 
 # data source : 
 -  https://www.kaggle.com/datasets/mdwaquarazam/agricultural-crops-image-classification/data
