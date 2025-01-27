@@ -1,4 +1,4 @@
-# crops_image_classification
+# Agriculture Crops Image Classification
 Image classifications for various types of agriculture crops 
 uses : Deep Learning, CNN 
 
